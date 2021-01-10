@@ -77,7 +77,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3rr&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://syedmodassirali.surge.sh
