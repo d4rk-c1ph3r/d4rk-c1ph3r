@@ -87,7 +87,7 @@
 [whatsapp]: https://wa.me/9875575784
 [telegram]: https://t.me/gr33nm0nk2802
 [twitter]: https://twitter.com/gr33nm0nk2802
-[mail]: mailto:sm2315@cse.jgec.ac.in
+[gmail]: mailto:sm2315@cse.jgec.ac.in
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/syed_mudassir_ali_2802
 [linkedin]: https://linkedin.com/in/gr33nm0nk2802
