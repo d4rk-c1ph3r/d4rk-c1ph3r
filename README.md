@@ -93,7 +93,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
 </details>
 
-
+<summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
