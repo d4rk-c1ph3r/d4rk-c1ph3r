@@ -1,10 +1,14 @@
 ### Hi there, I'm Mudassir -aka [d4rk-c1ph3r][website] 👋
 
+[![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fgr33nm0nk2802.github.io)](https://gr33nm0nk2802.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gr33nm0nk2802?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgr33nm0nk2802&screen_name=gr33nm0nk2802)
+
+### I am a Student, Infosec Researcher, Pentester, CTF Player and a Youtuber 
 <!--
 **d4rk-c1ph3r/d4rk-c1ph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Assembly and Shellcoding
-- 🌱 I’m currently learning Nasm Assembly
+- 🔭 I’m currently working on Pivoting, Windows Privilege Esclation and Active Directory Attacks
+- 🌱 I’m currently learning Network Pentesting 
 - 👯 I’m looking to collaborate 
 - 💬 Ask me about cybersecurity
 - ⚡ Fun fact: I love to dance
@@ -18,7 +22,7 @@
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fsyedmodassirali.surge.sh" />][website]
+[<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgr33nm0nk2802.github.io" />][website]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -31,13 +35,14 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw3yXPE59GOa03XxflPQgRYm&ust=1628143846790000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCKji2M_alvICFQAAAAAdAAAAABAD" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
@@ -73,12 +78,12 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
 </details>
 
-[website]: https://syedmodassirali.surge.sh
+[website]: https://gr33nm0nk2802.github.io
 [whatsapp]: https://wa.me/9875575784
 [telegram]: https://t.me/gr33nm0nk2802
 [twitter]: https://twitter.com/gr33nm0nk2802
 [gmail]: mailto:sm2315@cse.jgec.ac.in
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/syed_mudassir_ali_2802
+[instagram]: https://instagram.com/d4rk_c1ph3r
 [linkedin]: https://linkedin.com/in/gr33nm0nk2802
 [programmingplaylist]: https://www.youtube.com/
