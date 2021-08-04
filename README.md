@@ -93,10 +93,11 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
 </details>
 
+<details>
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
+</details>
 [website]: https://gr33nm0nk2802.github.io
 [whatsapp]: https://wa.me/9875575784
 [telegram]: https://t.me/gr33nm0nk2802
