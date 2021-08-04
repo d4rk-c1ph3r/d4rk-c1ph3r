@@ -1,18 +1,26 @@
-### Hi there, I'm Mudassir -aka [d4rk-c1ph3r][website] 👋
+<h2 align="center">Hi there, I'm Syed Modassir Ali aka<a href="https://gr33nm0nk2802.github.io/" target="_blank"> gr33nm0nk2802 / d4rk-c1ph3r</a> <img
+src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /></h2>
 
+<div align="center">
+  
 [![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fgr33nm0nk2802.github.io)](https://gr33nm0nk2802.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gr33nm0nk2802?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgr33nm0nk2802&screen_name=gr33nm0nk2802)
 
-### I am a Student, Infosec Researcher, Pentester, CTF Player and a Youtuber 
 <!--
 **d4rk-c1ph3r/d4rk-c1ph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Pivoting, Windows Privilege Esclation and Active Directory Attacks
-- 🌱 I’m currently learning Network Pentesting 
-- 👯 I’m looking to collaborate 
-- 💬 Ask me about cybersecurity
-- ⚡ Fun fact: I love to dance
-- 🥅 2021 Goals: Contribute more to Cybersecurity and OpenSource
+
+<h3 align="center"> I am a Student, Infosec Researcher, Pentester, CTF Player and a Youtuber </h3>
+<!-- <div align="left" style="margin-left="30px"> -->
+  <ul>
+    <li style="align:left;">🔭 I’m currently working on Pivoting, Windows Privilege Esclation and Active Directory Attacks</li>
+    <li>🌱 I’m currently learning Network Pentesting</li>
+    <li>👯 I’m looking to collaborate </li>
+    <li>💬 Ask me about cybersecurity</li>  
+    <li>⚡ Fun fact: I love to dance</li>
+    <li>🥅 2021 Goals: Contribute more to Cybersecurity and OpenSource</li>  
+  </ul>
+<!-- </div> -->
 
 ![](https://komarev.com/ghpvc/?username=d4rk-c1ph3r&style=flat-square)
 
@@ -50,7 +58,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- <h3> 📺 Latest YouTube Videos </h3> -->
 
 <!-- YOUTUBE:START -->
 <!-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
@@ -60,15 +68,16 @@
 - [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<h3>📕 Latest Blog Posts</h3>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+[VIITCTF V3 Writeup](https://gr33nm0nk2802.github.io/posts/viitctf/)
+[Sunset-1 Vulnhub](https://gr33nm0nk2802.github.io/posts/sunset1/)
+BLOG-POST-LIST:END
 
 
 ---
