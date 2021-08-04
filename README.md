@@ -3,26 +3,26 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 
 <div align="center">
   
-[![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fgr33nm0nk2802.github.io)](https://gr33nm0nk2802.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gr33nm0nk2802?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgr33nm0nk2802&screen_name=gr33nm0nk2802)
+[![Website](https://img.shields.io/website?label=My%20Blog&style=flat-square&url=https%3A%2F%2Fgr33nm0nk2802.github.io)](https://gr33nm0nk2802.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gr33nm0nk2802?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgr33nm0nk2802&screen_name=gr33nm0nk2802)
+![](https://komarev.com/ghpvc/?username=d4rk-c1ph3r&style=flat-square)
 
 <!--
 **d4rk-c1ph3r/d4rk-c1ph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center"> I am a Student, Infosec Researcher, Pentester, CTF Player and a Youtuber </h3>
-<!-- <div align="left" style="margin-left="30px"> -->
+<h3 align="center"> I am a B.Tech Computer Science Student, Infosec Researcher, Pentester, CTF Player and a Youtuber </h3>
+<div align="left" style="margin-left="30px">
   <ul>
-    <li style="align:left;">🔭 I’m currently working on Pivoting, Windows Privilege Esclation and Active Directory Attacks</li>
+    <li>🔭 I’m currently working on Windows Privilege Esclation Path</li>
     <li>🌱 I’m currently learning Network Pentesting</li>
     <li>👯 I’m looking to collaborate </li>
     <li>💬 Ask me about cybersecurity</li>  
     <li>⚡ Fun fact: I love to dance</li>
     <li>🥅 2021 Goals: Contribute more to Cybersecurity and OpenSource</li>  
   </ul>
-<!-- </div> -->
+</div>
 
-![](https://komarev.com/ghpvc/?username=d4rk-c1ph3r&style=flat-square)
 
 ### Spotify Playing 🎧
 
@@ -74,10 +74,10 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 
 <h3>📕 Latest Blog Posts</h3>
 
-BLOG-POST-LIST:START
-[VIITCTF V3 Writeup](https://gr33nm0nk2802.github.io/posts/viitctf/)
+<!-- BLOG-POST-LIST:START -->
+[VIITCTF V3 Writeup](https://gr33nm0nk2802.github.io/posts/viitctf/)<br> 
 [Sunset-1 Vulnhub](https://gr33nm0nk2802.github.io/posts/sunset1/)
-BLOG-POST-LIST:END
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
