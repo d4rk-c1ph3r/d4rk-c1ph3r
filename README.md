@@ -23,12 +23,15 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
   </ul>
 </div>
 
+---
 
-### Spotify Playing 🎧
+<h2> Spotify Playing 🎧 </h2>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+---
+
+<h2> Connect with me: </h2>
 
 [<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgr33nm0nk2802.github.io" />][website]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -40,7 +43,9 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br />
 
-### Languages and Tools:
+---
+                                                                                                            
+<h2> Languages and Tools </h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/python/python.png" />
@@ -56,8 +61,9 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 <br />
 <br />
 
+<!--                                                                                                                                           <
 ---
-
+-->
 <!-- <h3> 📺 Latest YouTube Videos </h3> -->
 
 <!-- YOUTUBE:START -->
@@ -81,12 +87,15 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 
 
 ---
-
-
+                  
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
 </details>
+
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [website]: https://gr33nm0nk2802.github.io
 [whatsapp]: https://wa.me/9875575784
