@@ -88,10 +88,9 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 
 ---
                   
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true" />
-</details>
+<h3>:zap: GitHub Stats</h3>
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true&theme=merko&show_icons=true" align="center"" />
+
 
 [website]: https://gr33nm0nk2802.github.io
 [whatsapp]: https://wa.me/9875575784
