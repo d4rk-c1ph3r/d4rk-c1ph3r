@@ -7,6 +7,14 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 [![Twitter Follow](https://img.shields.io/twitter/follow/gr33nm0nk2802?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgr33nm0nk2802&screen_name=gr33nm0nk2802)
 ![](https://komarev.com/ghpvc/?username=d4rk-c1ph3r&style=flat-square)
 
+---
+
+<h2> Spotify Playing 🎧 </h2>
+
+[<img src="https://https://readme-spotify-status-green.vercel.app/api/run-spotify-status" alt="Spotify" width="350" />](https://open.spotify.com/user/preb2i1bi6d7hqama7nybj6az)
+
+--- 
+  
 <!--
 **d4rk-c1ph3r/d4rk-c1ph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -14,20 +22,14 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 <h3 align="center"> I am a B.Tech Computer Science Student, Infosec Researcher, Pentester, CTF Player and a Youtuber </h3>
 <div align="left" style="margin-left="30px">
   <ul>
-    <li>🔭 I’m currently working on Windows Privilege Esclation Path</li>
-    <li>🌱 I’m currently learning Network Pentesting</li>
-    <li>👯 I’m looking to collaborate </li>
-    <li>💬 Ask me about cybersecurity</li>  
-    <li>⚡ Fun fact: I love to dance</li>
-    <li>🥅 2021 Goals: Contribute more to Cybersecurity and OpenSource</li>  
+    &nbsp;&nbsp;&nbsp;<li>🔭 I’m currently working on Windows Privilege Esclation Path</li>
+    &nbsp;&nbsp;&nbsp;<li>🌱 I’m currently learning Network Pentesting</li>
+    &nbsp;&nbsp;&nbsp;<li>👯 I’m looking to collaborate </li>
+    &nbsp;&nbsp;&nbsp;<li>💬 Ask me about cybersecurity</li>  
+    &nbsp;&nbsp;&nbsp;<li>⚡ Fun fact: I love to dance</li>
+    &nbsp;&nbsp;&nbsp;<li>🥅 2021 Goals: Contribute more to Cybersecurity and OpenSource</li>  
   </ul>
 </div>
-
----
-
-<h2> Spotify Playing 🎧 </h2>
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
 
@@ -79,17 +81,18 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="28" /><
 ---
 
 <h3>📕 Latest Blog Posts</h3>
-
+<div align="left">
 <!-- BLOG-POST-LIST:START -->
-[VIITCTF V3 Writeup](https://gr33nm0nk2802.github.io/posts/viitctf/)<br> 
-[Sunset-1 Vulnhub](https://gr33nm0nk2802.github.io/posts/sunset1/)
+&nbsp;&nbsp;&nbsp;<a href="https://gr33nm0nk2802.github.io/posts/viitctf/">VIITCTF V3 Writeup</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://gr33nm0nk2802.github.io/posts/sunset1/">Sunset-1 Vulnhub</a>
+<div>
 <!-- BLOG-POST-LIST:END -->
 
 
 ---
                   
-<h3>:zap: GitHub Stats</h3>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true&theme=merko&show_icons=true" align="center"" />
+<h3 align="center">:zap: GitHub Stats</h3>
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.d4rk-c1ph3r.vercel.app/api?username=d4rk-c1ph3r&show_icons=true&hide_border=true&theme=merko&show_icons=true" align="center"" />
 
 
 [website]: https://gr33nm0nk2802.github.io
